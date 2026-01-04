@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "360765351027",
+    "project_id": "infclt2025003---sarumathi",
+    "storage_bucket": "infclt2025003---sarumathi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360765351027:android:c9cb70d7d2b6404956f606",
+        "android_client_info": {
+          "package_name": "com.infanji.ai_based_meal_recommendation_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360765351027-jsman2v0i1fciik6qq9sdlvv0flhru6t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infanji.ai_based_meal_recommendation_app",
+            "certificate_hash": "cb9d0208aabc9b54cc57b120411c833061f28491"
+          }
+        },
+        {
+          "client_id": "360765351027-fmfsafsjac28q6102ga0tucq7mh7soi7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWRhYV1ydWUuy0lyT7ZmzVhuNdGLIyDTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360765351027-fmfsafsjac28q6102ga0tucq7mh7soi7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

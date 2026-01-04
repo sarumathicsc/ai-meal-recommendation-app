@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">AI Based - Meal Recommendation App</string>
+    <string name="eat_smart_live_healthy">Eat Smart, Live Healthy!</string>
+    <string name="default_web_client_id">360765351027-jsman2v0i1fciik6qq9sdlvv0flhru6t.apps.googleusercontent.com</string>
+    <string name="description">“Discover meals that match your taste, diet, and lifestyle. Whether you’re craving something new or sticking to a healthy routine, we’ve got the perfect recommendations for you!”</string>
+    <string name="log_in_to_discover_meals_tailored_for_your_taste_amp_health"><![CDATA[Log in to discover meals tailored for your taste & health!]]></string>
+    <string name="ai_powered_meal_recommendations_based_on_your_preferences_and_health_goals">“AI-powered meal recommendations based on your preferences and health goals.”</string>
+    <string name="good_morning">Good Morning!</string>
+    <string name="sparky">Sparky</string>
+    <string name="enter_your_mobile_number_amp_name_to_get_started"><![CDATA[Enter your mobile number & name to get started.]]></string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="enter_your_name">Enter Name</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="sign_up">Click Here</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="log_in_to_continue_your_healthy_meal_journey">Log in to continue your healthy meal journey.</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="forgot_password_emoji">Forgot Password 🥲?</string>
+    <string name="to_personalize_your_meals_we_need_a_few_quick_details">To personalize your meals, we need a few quick details…</string>
+    <string name="age">Age 🎂</string>
+    <string name="gender">Gender ⚥</string>
+    <string name="enter_age">Enter Age</string>
+    <string name="ditery_type">Ditery Type 🥗</string>
+    <string name="health_amp_fitness_goals"><![CDATA[Health & Fitness Goals 🏋🏻‍♀️]]></string>
+    <string name="allergies_amp_restrictions"><![CDATA[Allergies & Restrictions 🤧]]></string>
+    <string name="no_fried_food">No Fried Food</string>
+    <string name="no_spicy_food">No Spicy Food</string>
+    <string name="shellfish_allergy">Shellfish Allergy</string>
+    <string name="soy_allergy">Soy Allergy</string>
+    <string name="nut_allergy">Nut Allergy</string>
+    <string name="gluten_allergy">Gluten Allergy</string>
+    <string name="lactose_intolerance">Lactose Intolerance</string>
+    <string name="cuisine_preferences">Cuisine Preferences 🍽️</string>
+    <string name="indian_north_south">Indian (North/South)</string>
+    <string name="chinese">Chinese</string>
+    <string name="continental">Continental</string>
+    <string name="mediterranean">Mediterranean</string>
+    <string name="thai">Thai</string>
+    <string name="italian">Italian</string>
+    <string name="mexican">Mexican</string>
+    <string name="japanese">Japanese</string>
+    <string name="no_allergies">No Allergies</string>
+    <string name="recipe">Recipe 😋</string>
+    <string-array name="gender_options">
+        <item>Select Gender</item> <!-- This acts as a hint -->
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+        <item>Prefer not to say</item>
+    </string-array>
+    <string-array name="dietary_options">
+        <item>Select Dietary Type</item>
+        <item>Vegetarian</item>
+        <item>Non-Vegetarian</item>
+        <item>Vegan</item>
+        <item>Eggetarian</item>
+        <item>Pescatarian</item>
+        <item>Jain</item>
+        <item>Keto</item>
+        <item>Paleo</item>
+        <item>Low-Carb</item>
+        <item>Gluten-Free</item>
+        <item>Dairy-Free</item>
+    </string-array>
+    <string-array name="fitness_goal_options">
+        <item>Select Goal</item>
+        <item>Weight Loss</item>
+        <item>Weight Gain</item>
+        <item>Muscle Gain</item>
+        <item>Maintain Weight</item>
+        <item>Diabetic-Friendly</item>
+        <item>Heart Health</item>
+        <item>PCOS/PCOD Support</item>
+        <item>Improve Immunity</item>
+        <item>General Wellness</item>
+    </string-array>
+</resources>
